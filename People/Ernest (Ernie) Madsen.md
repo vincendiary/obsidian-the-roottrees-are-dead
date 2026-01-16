@@ -1,0 +1,3 @@
+- Husband of [[Debra (Debbie) Bean]]
+- Father of [[Nicole Madsen]]
+- Funeral mentioned in [[Shiva Candle Photo]]

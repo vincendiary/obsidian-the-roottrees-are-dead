@@ -1,0 +1,5 @@
+- Television actor
+- Major role in [[Guys Like Us]]
+- Villain in [[Western Frontiers]]
+	- Due to popularity in Guys Like Us, brought back to play villain's twin brother who was a hero
+- Married his high school sweetheart after they reunited at a movie premiere

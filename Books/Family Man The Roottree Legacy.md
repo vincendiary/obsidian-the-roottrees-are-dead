@@ -1,0 +1,5 @@
+- Written by [[Bess Williams]]
+- Published in 1920
+- Nonfiction Anthology about [[Elias Roottree]]
+- Includes biased quotes from Elias
+- No downloadable version, book is impossible to find these days

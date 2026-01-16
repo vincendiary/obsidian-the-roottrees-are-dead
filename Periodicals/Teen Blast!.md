@@ -1,0 +1,5 @@
+- Rhayna was on a cover of the magazine
+	- Her grandpa was a history college professor
+		- His older sister wrote a book
+		- Passed away earlier this year (1998?)
+	- Grandma Laura

@@ -1,0 +1,8 @@
+- All female punk band operating out of New York City
+- Extremely cagey about identities, rumored to be children of other famous musicians
+- Sold a CD called "Conquistabore"
+- Only good song was named "Beef Baby"
+- Members are:
+	- Guitar/Vocals - [[Candy Roottree]]
+	- Bass - Nicki
+	- Drums - Nina

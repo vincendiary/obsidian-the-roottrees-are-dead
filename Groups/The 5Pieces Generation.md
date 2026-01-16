@@ -1,0 +1,3 @@
+- The 5 children of [[Elias Roottree]] and [[Gwyneth Roottree]]
+- Nickname came from [[Roottree Candy Company#5Pieces]]
+- Photo included in [[A Life Between Wars]]

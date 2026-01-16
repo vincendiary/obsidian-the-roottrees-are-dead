@@ -1,0 +1,8 @@
+- Not born with a famous name, came up with "Wild Bill"
+- Previously married to [[Gwynn Roottree]]
+- Divorced in 1958 according to [[Starlet]]
+- Appeared in movie "Fortune Favors the Grave"
+- Known for good looks, offscreen romances with blondes
+- Married 4 times to 4 different actresses
+- Grew up in Paris, France
+- Real name is Linus Cornwall?

@@ -1,0 +1,3 @@
+- Son of [[Jacob Rafferty]] and [[Lauren Roottree]]
+- Part of [[The Free Spirits]]
+- 

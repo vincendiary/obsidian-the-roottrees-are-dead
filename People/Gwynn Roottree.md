@@ -1,0 +1,10 @@
+- Well known actress active in 1950s
+- Blonde
+- Appeared in tabloids like [[Starlet]]
+- Divorced with [[Wild Bill Williams]]
+- Biggest role was in "Guys Like Us."
+- Left Hollywood after flop "Christmas Mission"
+- Granddaughter of [[Elias Roottree]]
+- Shouldn't have been named Roottree but **her father took her mother's famous name**
+- According to [[A Life Between Wars]], she is an only child, blonde, and lives with [[Aunt Margo]]
+	- Kissed [[Harrison Lane]] in movies

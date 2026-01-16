@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "83697855b46e30bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1829d87fdecd36ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17db5302f7b51dc8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38a23ea85f430fc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f0d0829ff1e368c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c943122f19af68ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4554ae3879571725",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b867185f8e5004b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "45713ec0a964516c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9bf4dbb4d577501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33483842515f25d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cargo Hold Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cargo Hold Notes"
+            }
+          },
+          {
+            "id": "516db5dee689d450",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cargo Hold Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cargo Hold Notes"
+            }
+          },
+          {
+            "id": "1539234560b39753",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1206ea78d1a738fb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9f91b1dc57b00166",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cargo Hold Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cargo Hold Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "17db5302f7b51dc8",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Books/A Life Between Wars.md",
+    "People/Zach (Zac) Wilson.md",
+    "People/Angelica (Angie) Morden.md",
+    "People/Clancy (Pop) Edward Roottree.md",
+    "People/Lauren Roottree.md",
+    "Photos/The Free Spirits Photo.md",
+    "Assets/Pasted image 20260114132001.png",
+    "Photos/Campaign Mailer Photo.md",
+    "Assets/Pasted image 20260114131443.png",
+    "People/Ernest (Ernie) Madsen.md",
+    "People/Debra (Debbie) Bean.md",
+    "People/Nicole Madsen.md",
+    "Photos/Shiva Candle Photo.md",
+    "Assets/Pasted image 20260114130304.png",
+    "Photos/5Pieces Photo.md",
+    "Periodicals/Starlet.md",
+    "People/Wild Bill Williams.md",
+    "Photos/Paris Photo.md",
+    "Assets/Pasted image 20260114125532.png",
+    "Books/Family Man The Roottree Legacy.md",
+    "Books/Romance in Court.md",
+    "People/Gwynn Roottree.md",
+    "Photos",
+    "People/Harrison Lane.md",
+    "People/Lesley Florence.md",
+    "Films",
+    "Films/Guys Like Us.md",
+    "Groups/Diamond's Dazzlers.md",
+    "People/James (Jim) Roottree.md",
+    "People/Elias Roottree.md",
+    "Groups/The Fluzis.md",
+    "Assets/Pasted image 20260113162859.png",
+    "Assets",
+    "Periodicals",
+    "Books",
+    "Assets/Pasted image 20260113113930.png",
+    "Groups",
+    "Events",
+    "People",
+    "Escape Simulator 2",
+    "Escape Simulator 2/Pasted image 20251205114100.png",
+    "Escape Simulator 2/Pasted image 20251205113903.png",
+    "Escape Simulator 2/Pasted image 20251205114041.png"
+  ]
+}

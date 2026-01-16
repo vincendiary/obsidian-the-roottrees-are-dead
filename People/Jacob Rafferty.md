@@ -1,0 +1,3 @@
+- Husband of [[Lauren Roottree]]
+- Father of [[Clark Rafferty]]
+- 

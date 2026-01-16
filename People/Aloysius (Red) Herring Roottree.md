@@ -1,0 +1,6 @@
+- Appointed judge and politician
+- Earned nickname from being ambassador to Ireland for only 6 days
+	- Shortest term in history
+	- Heard disparaging his position and the Irish
+- Ran for state senate
+- Claimed to be related to the [[Roottree Candy Company]] but last name was merely a coincidence

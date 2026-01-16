@@ -1,0 +1,8 @@
+- Wife of [[Elias Roottree]]
+- Maiden name Gwyneth Anderson
+- No brothers, eldest sister
+- Inherited the Anderson Maple Farm as long as she married
+	- Originally produced only syrup
+	- [[Elias Roottree]] had the idea to create candy instead
+	- Was not successful until they combined the maple with other flavors: [[Roottree Candy Company#5Pieces]]
+- Housewife in early 1900s

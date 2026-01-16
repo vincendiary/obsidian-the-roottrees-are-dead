@@ -1,0 +1,8 @@
+- Founder and President (1st) of [[Roottree Candy Company]]
+- Husband of [[Gwyneth Roottree]]
+	- Inherited a farm from her family that produced syrup
+- Invented [[Roottree Candy Company#5Pieces]]
+	- "Blood is thicker than syrup"
+	- "Any child linked by blood to me shall be linked by blood to my legacy"
+- Quoted in book called "Family Man: The Roottree Legacy" by Bess Williams
+- Like his great grandson [[Carl Roottree]], earned the "Watchman of the Year" title

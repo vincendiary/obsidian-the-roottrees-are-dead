@@ -1,0 +1,4 @@
+- Maiden name Brenda White
+- Wife of [[Carl Roottree]]
+- Mother of [[Roottree Sisters]]
+- Died in [[Roottree Private Plane Crash]]

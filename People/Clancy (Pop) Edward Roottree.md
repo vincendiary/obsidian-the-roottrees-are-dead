@@ -1,0 +1,3 @@
+- Son of [[Elias Roottree]] and [[Brenda Roottree]]
+- Father of [[Lauren Roottree]]
+- Lawyer for [[Roottree Candy Company]]

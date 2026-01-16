@@ -1,0 +1,3 @@
+- Daughter of [[Elias Roottree]] and [[Brenda Roottree]]
+- Oldest of [[The 5Pieces Generation]]
+- 

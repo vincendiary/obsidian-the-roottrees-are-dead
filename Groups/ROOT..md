@@ -1,0 +1,4 @@
+- Founded by [[Carl Roottree]] and [[Brenda Roottree]]
+- Carl is president
+- Brenda is fashion designer
+- Modeled by [[Roottree Sisters]]

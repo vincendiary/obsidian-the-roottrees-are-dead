@@ -1,0 +1,6 @@
+- Founder of [[Miracle Network]]
+- Youngest son of [[Elias Roottree]] and [[Gwyneth Roottree]]
+- Named "Miracle" because they thought him impossible: younger than brothers and sisters by over 14 years
+- Countless health problems
+- Very religious
+- 23 years later, [[Miracle Jr.]] was born

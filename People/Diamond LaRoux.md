@@ -1,0 +1,4 @@
+- Wife of [[James (Jim) Roottree]]
+- Musician, lead vocalist of their musical duo
+- Fans known as [[Diamond's Dazzlers]]
+- 

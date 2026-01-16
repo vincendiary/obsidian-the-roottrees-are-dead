@@ -1,0 +1,9 @@
+- Great grandson of Elias Roottree
+	- Quoted from Peter Janowicz from MMM
+- Musical duo with [[Diamond LaRoux]] (his wife)
+- One-hit wonder "Rollin' on down to the city"
+- Diamond lead singer, fans known as [[Diamond's Dazzlers]]
+- Other albums include Cherry Tree and Sound of Laughter
+- Recluse, no public appearance since 1996
+- Has a son named [[Wolf Roottree]] and a daughter named [[Candy Roottree]]
+- 

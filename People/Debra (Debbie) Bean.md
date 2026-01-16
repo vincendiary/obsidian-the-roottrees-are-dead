@@ -1,0 +1,2 @@
+- Wife of [[Ernest (Ernie) Madsen]]
+- Mother of [[Nicole Madsen]]

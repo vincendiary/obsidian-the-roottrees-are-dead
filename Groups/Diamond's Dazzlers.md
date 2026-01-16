@@ -1,0 +1,4 @@
+- Official fan club for [[James (Jim) Roottree]] and [[Diamond LaRoux]]
+- Jim and Diamond still send out a Christmas card every year to the Dazzlers
+	- Card from 1996 includes pictures of their son [[Wolf Roottree]]
+		- Also a note about [[Jim's daughter]]'s band [[The Fluzis]]

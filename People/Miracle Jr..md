@@ -1,0 +1,11 @@
+- Doesn't go by full name
+- Televangelist, part of the [[Miracle Network]]
+	- Used to have a show aired across Northeastern US
+- According to ClergyWatch:
+	- Exposed and charged with conspiracy to defraud public in 1979
+	- Claimed to heal person with wheelchair
+	- News expose revealed it was his wife [[Edith]]'s sister in a disguise
+	- [[Edith]] also had a bit of a checkered past
+- Lost television show, now tours across South US
+- Son of [[Miracle Roottree]] and [[Miracle's Wife]]
+- At 18, removed Roottree from his name

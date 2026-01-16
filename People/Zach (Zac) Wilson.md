@@ -1,0 +1,3 @@
+- Son of [[Elias Roottree]] and [[Brenda Roottree]]
+- Oldest son but not the oldest of [[The 5Pieces Generation]]
+	- That title goes to [[Angelica (Angie) Morden]]

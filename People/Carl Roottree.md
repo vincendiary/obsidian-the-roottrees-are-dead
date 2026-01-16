@@ -1,0 +1,6 @@
+ - Earned prestigious "Watchman of the Year" title
+	- Great Grandfather also earned this title [[Elias Roottree]]
+- Husband of [[Brenda Roottree]]
+- Father of [[Roottree Sisters]]
+- Died in [[Roottree Private Plane Crash]]
+- President of the [[Roottree Candy Company]]

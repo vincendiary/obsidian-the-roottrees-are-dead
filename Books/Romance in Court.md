@@ -1,0 +1,5 @@
+- Fiction, Romance novel by [[Lauren Roottree]]
+- Originally written under married name, Rafferty, in 1964
+- Re-released in 1968 under her maiden name, Roottree, gaining popularity
+- Has 2 sequels, referred to as the "Court Jester" series
+- About the author mentions she had inspiration from brother Clancy's lectures on middle ages

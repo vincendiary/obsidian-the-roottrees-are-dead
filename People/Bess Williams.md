@@ -1,0 +1,4 @@
+- Author of [[Family Man The Roottree Legacy]]
+- Born in late 1800s
+- Lived outside of Miami
+- Died young in major Miami hurricane in 1926

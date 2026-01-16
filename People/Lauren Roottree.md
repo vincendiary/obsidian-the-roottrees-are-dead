@@ -1,0 +1,12 @@
+- **Married** name Lauren Rafferty
+- Wife of [[Jacob Rafferty]]
+- Mother of [[Clark Rafferty]]
+- Daughter of [[Clancy (Pop) Edward Roottree]]
+- Never re-married and only had 1 child
+- Distant relative of the [[Roottree Sisters]]
+- Known for her book [[A Life Between Wars]]
+- Released a few romance novels under her married name in 1960s
+	- Not popular, publisher insisted she release them under her maiden name for family notoriety
+- Retired
+- Husband died in WW2 according to [[A Life Between Wars]]
+- Wrote romance novel [[Romance in Court]] and 2 sequels

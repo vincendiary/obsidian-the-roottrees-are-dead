@@ -1,0 +1,5 @@
+- 1953 film romance film
+- Starring [[Gwynn Roottree]], [[Lesley Florence]], and [[Harrison Lane]]
+- Title is a play on words:
+	- 2 women are men similar to other men, or
+	- that the men are fond of them

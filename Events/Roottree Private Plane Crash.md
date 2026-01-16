@@ -1,0 +1,6 @@
+- Occurred on December 6, 1998 (?)
+- Victims included:
+	- [[Carl Roottree]]
+	- [[Brenda Roottree]]
+	- [[Roottree Sisters]]
+	- Employees
