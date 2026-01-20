@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1829d87fdecd36ef",
+        "id": "fb1b37fdf2744d1d",
         "type": "tabs",
         "children": [
           {
-            "id": "17db5302f7b51dc8",
+            "id": "8a2f76bd52dde000",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Books/A Life Between Wars.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "A Life Between Wars"
             }
           }
         ]
@@ -176,10 +180,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17db5302f7b51dc8",
+  "active": "8a2f76bd52dde000",
   "lastOpenFiles": [
     "Untitled.base",
     "Books/A Life Between Wars.md",
