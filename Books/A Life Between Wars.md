@@ -37,4 +37,4 @@
 	- [[Gwyneth Roottree]] had been pushing to include Sam for some time
 - Lauren's take: why Sam when there are other distant relatives?
 	- Grannie ([[Brenda Roottree]]) had sisters and Grandad [[Elias Roottree]] had a brother or two but they aren't included so why Sam?
-- Angie su
+- Angie summone
